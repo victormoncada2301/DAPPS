@@ -1,4 +1,4 @@
-# DApp 
+# DAPP 
 
 Bienvenidos a mi primera aplicacion descentralizada con Truffle, a continuación les explico brevemente el funcionamiento.
 
